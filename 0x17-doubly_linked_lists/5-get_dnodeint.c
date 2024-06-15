@@ -4,7 +4,8 @@
  * free_dlistint - frees a list.
  *
  * @head: pointer of the head of the list.
- * @index: index.
+ *
+ * @index: index of the nth node.
  *
  * Return: nth index or NULL.
  */
